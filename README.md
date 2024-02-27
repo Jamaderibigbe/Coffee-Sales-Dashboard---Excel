@@ -29,7 +29,7 @@ In this project Today, we are going to creation Coffee Sales Dashboard. This das
 #### Purposes Of The Project
 build a dynamic and interactive Coffee sales Dashboard.
 
-#### About Data
+#### About Dataset
 The dataset consists of sales transactions spanning 21 columns and over 1,000 rows of valuable data for analysis [Coffee order Data](https://github.com/Jamaderibigbe/Coffee-Sales-Dashboard---Excel/blob/main/coffeeOrdersData%20Start.xlsx)
 
 #### Approach Used
